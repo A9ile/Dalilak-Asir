@@ -1,6 +1,15 @@
-# دليلك عسيري
+<p align="center">
+  <img src="assets/logo/logo-Asir-PNG-03" alt="شعار دليلك عسيري" width="200"/>
+</p>
 
-**رحلة شاملة... تجربة أصيلة**
+<h1 align="center">دليلك عسيري</h1>
+<p align="center"><strong>رحلة شاملة... تجربة أصيلة</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/الواجهة_الخلفية-FastAPI-F7D048?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/قاعدة_البيانات-Supabase_+_PostgreSQL-D95641?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/التصميم-Figma-F9E7A6?style=for-the-badge&logo=figma&logoColor=black" />
+</p>
 
 ---
 
@@ -36,7 +45,7 @@
 
 > 🔬 الذكاء الاصطناعي: (سيتم إضافته لاحقًا بعد المناقشة)
 
-
+---
 
 ## 🗂️ هيكل المشروع
 
@@ -47,9 +56,6 @@
 | `database/`            | يحتوي على ملف schema.sql لهيكل قاعدة البيانات       |
 | `assets/`              | صور ومواد مرئية للمشروع أو العرض التقديمي            |
 | `README.md`            | هذا الملف التعريفي للمشروع                            |
-
-
----
 
 ---
 
@@ -91,9 +97,10 @@
 
 ## 📮 تواصل معنا
 
-- المهندس المسؤول عن المشروع: [أصيل الثبيتي](http://www.linkedin.com/in/aseelalthubaiti)
+- قائدة الفريق – بكالوريوس كيمياء حيوية: [غيداء طارق](https://www.linkedin.com/in/ghaidaa-tariq)  
+- مهندس البيانات: [أصيل الثبيتي](http://www.linkedin.com/in/aseelalthubaiti)  
+- هندسة برمجيات: [دانه الغامدي](https://www.linkedin.com/in/dana-alghamd)  
+- مهندسة ذكاء اصطناعي: [فاطمة الغامدي](https://www.linkedin.com/in/fatima-alghamdi)  
+- مسؤولة العروض التقديمية: [نورة الحارثي](https://www.linkedin.com/in/norah-al-harthi)  
 
 ---
-
-## 🗂️ هيكل المشروع
-

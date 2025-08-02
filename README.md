@@ -122,7 +122,7 @@
 ---
 ### 🗺️ رسم قاعدة البيانات (Database Schema)
 
-<img src="assets/diagrams/Schema-DB-Dalilak Asiri" alt="مخطط قاعدة البيانات" width="600"/>
+<img src="assets/diagrams/Schema-DB-Dalilak Asiri.png" alt="مخطط قاعدة البيانات" width="600"/>
 
 ---
 

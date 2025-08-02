@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="assets/logo/logo-Asir-PNG-03" alt="شعار دليلك عسيري" width="200"/>
+  <img src="assets/logo/logo-Asir-PNG-03.png" alt="شعار دليلك عسيري" width="200"/>
 </p>
 
 <h1 align="center">دليلك عسيري</h1>
 <p align="center"><strong>رحلة شاملة... تجربة أصيلة</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/الواجهة_الخلفية-FastAPI-F7D048?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/قاعدة_البيانات-Supabase_+_PostgreSQL-D95641?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/التصميم-Figma-F9E7A6?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-F7D048?style=for-the-badge&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase_PostgreSQL-Database-D95641?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-Design-F9E7A6?style=for-the-badge&logo=figma&logoColor=black" />
+</p>
+
+<p align="center">
+  <em>الواجهة الخلفية - قاعدة البيانات - التصميم</em>
 </p>
 
 ---

@@ -144,10 +144,10 @@
 
 ## 📮 تواصل معنا
 
-- قائدة الفريق – بكالوريوس كيمياء حيوية: [غيداء طارق]()  
+- قائدة الفريق – بكالوريوس كيمياء حيوية: [غيداء طارق](https://www.linkedin.com/in/ghaidaa-tariq-5079552a5/)  
 - مهندس البيانات: [أصيل الثبيتي](http://www.linkedin.com/in/aseelalthubaiti)  
-- هندسة برمجيات: [دانه الغامدي](https://www.linkedin.com/in/dana-alghamd)  
+- هندسة برمجيات: [دانه الغامدي](https://www.linkedin.com/in/dana-alghamdi-b80b63372/)  
 - مهندسة ذكاء اصطناعي: [فاطمة الغامدي](https://www.linkedin.com/in/fatima-alghamdi/)  
-- مسؤولة العروض التقديمية: [نورة الحارثي]([https://www.linkedin.com/in/norah-al-harthi](https://www.linkedin.com/in/norah-al-harthi-1150692b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- مسؤولة العروض التقديمية: [نورة الحارثي](https://www.linkedin.com/in/norah-al-harthi-1150692b5/)  
 
 ---
